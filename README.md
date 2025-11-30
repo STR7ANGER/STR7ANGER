@@ -198,24 +198,6 @@ const aditya = {
 
 ---
 
-## 🏆 Achievements & Recognition
-
-<div align="center">
-
-| Achievement | Description |
-|:------------|:------------|
-| 🥇 **Industrial Hackathon Winner 2024** | 1st place among 50+ teams for production-ready solution |
-| 💻 **700+ LeetCode Problems** | Competitive programming enthusiast |
-| 📚 **Research Head @ BC3** | Led cloud computing research (2024-2025) |
-| 🎓 **5+ Workshops Conducted** | Trained 100+ students on scalable architectures |
-| 👨‍🏫 **Mentored 20+ Peers** | Guided cloud-based project development |
-| 🏸 **Top 3 Athlete** | 3+ podium finishes in sports tournaments |
-| ♟️ **Chess Competitor** | 20+ rated tournament participations |
-
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
